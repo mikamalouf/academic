@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "mikamalouf.bsky.social"
+  bluesky          : #"mikamalouf.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -69,7 +69,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : @mikamalouf
+  twitter          : "mikamalouf"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
