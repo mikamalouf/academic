@@ -3,7 +3,7 @@ title: "Seroanalytics Training - Pre Sero-Summit Workshop"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2025-Malawi-Seroanalytics-1
-venue: ""
+venue: "Malawi-Liverpool-Wellcome Trust"
 date: 2025-05-21
 location: "Blantyre, Malawi"
 ---

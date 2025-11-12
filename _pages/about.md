@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-About
-======
+## About
+
 My name is Mika Malouf, also known as Chelsea Malouf or Chelsea M. Malouf, and I am a second-year PhD candidate 
 
 
-Research Interests
-======
+## Research Interests
+
 My research focuses on expanding on the current use of multi-pathogen and multi-antigen multiplex serology using datasets from sub-Saharan Africa and southeast Asia to interpret the following:
 1. Methods best describing the sero-prevalence of multiple pathogens in a population without the presence of control data
 2. Create a framework in how to interpret multi-pathogen multiplex data
