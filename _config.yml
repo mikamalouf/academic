@@ -32,7 +32,7 @@ author:
   email            : #"none@example.org"
 
   # Academic websites
-  academia         : https://profiles.lshtm.ac.uk/6355-chelsea-malouf
+  academia         : "https://profiles.lshtm.ac.uk/6355-chelsea-malouf"
   arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=4&user=Om72-uwAAAAJ"
   impactstory      : 
