@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles at my [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-5564-7464) and [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=4&user=Om72-uwAAAAJ).
+You can also find my articles at my [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-5564-7464), [Research Gate](https://www.researchgate.net/scientific-contributions/Chelsea-Mika-Malouf-2227400587), and [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=4&user=Om72-uwAAAAJ).
 
 
 <!--
