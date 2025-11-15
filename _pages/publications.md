@@ -15,7 +15,7 @@ https://paperpile.com/t/doi-to-apa-converter/
  -->
  
 ### Journal Publications
- 1. Boyd, A., Evans, K. M., Turner, E. L., … **Malouf, C. M.**, … Chaturvedi, N. (2025). UK Longitudinal Linkage Collaboration (UK LLC): The National Trusted Research Environment for Longitudinal Research. *International journal of population data science*, 10(1), 2468. https://doi.org/10.23889/ijpds.v10i1.2468
+ 1. Boyd, A., Evans, K. M., Turner, E. L., … **Malouf, C. M.**, … Chaturvedi, N. (2025). UK Longitudinal Linkage Collaboration (UK LLC): The National Trusted Research Environment for Longitudinal Research. *International journal of population data science*, 10(1), 2468. [https://doi.org/10.23889/ijpds.v10i1.2468](https://doi.org/10.23889/ijpds.v10i1.2468)
  
 --- 
  
