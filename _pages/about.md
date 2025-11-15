@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-My name is Mika Malouf, also known as Chelsea Malouf or Chelsea M. Malouf, and I am a second-year PhD candidate 
+My name is Mika Malouf, also known as Chelsea Malouf or Chelsea M. Malouf, and I am a second-year PhD candidate in the Joint PhD programme for LSHTM and Nagasaki University.
 
 
 ## Research Interests
@@ -20,11 +20,4 @@ My research focuses on expanding on the current use of multi-pathogen and multi-
 2. Create a framework in how to interpret multi-pathogen multiplex data
 3. Predict the geospatial overlap of NTDs and malaria
 
-Key words:
-- Multiplex
-- Serology
-- Malaria
-- NTDs
-- Infectious disease epidemiology
-- Seroanalytics
-- Bayesian statistics
+Key words: Multiplex, Serology, Malaria, NTDs, Infectious disease epidemiology, Seroanalytics, Bayesian statistics, 

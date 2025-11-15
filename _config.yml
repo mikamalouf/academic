@@ -224,9 +224,15 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
+    hidden: true
     permalink: /:collection/:path/
   talks:
     output: true
+    hidden: true
+    permalink: /:collection/:path/
+  markdown:
+    output: true
+    hidden: true
     permalink: /:collection/:path/
 
 
