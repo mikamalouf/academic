@@ -10,7 +10,7 @@ Type: Workshop
 Date: May 2025
 Location: Malawi-Liverpool-Wellcome Trust, Blantyre, Malawi
 
-<u> Introduction to Serological Concepts and Method <u>
+<u> Introduction to Serological Concepts and Method <u>  
 The workshop was lead by the Seroanalytics Hub at Johns Hopkins University and was offered to researchers from 27 countries. This was part of the 2nd Serosurveillance Summit and introduced serological concepts and methods. The workshop was divided into the following 5 sessions:
 1. Introduction to R for serological data analyses
 2. Pre-processing serological data
@@ -36,5 +36,5 @@ Type: Practical
 Date: March 2025 and March 2026
 Location: University College London, UK
 
-<u> Sero-epidemiology practical <u>
+<u> Sero-epidemiology practical <u>  
 Formatted readable practical for datasets coming from high and low transmission regions. [Available online](https://github.com/mikamalouf/seroimmunology-epi_practical).
